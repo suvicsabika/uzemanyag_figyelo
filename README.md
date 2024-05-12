@@ -11,7 +11,7 @@ pénzmegtakarításban és a legjobb szolgáltatások megtalálásában. Az alka
 árakat  „Web Scraping”  technikával a benzinkutak hivatalos oldaláról és/vagy egy összesítő 
 oldalról szerezné meg.
 
-Választott nyelv: Java / Kotlin  
+Választott nyelv: Java  
 Felhasznált technológiák linkekkel:  
 MySQL (https://www.mysql.com/)  
 Maps SDK (https://developers.google.com/maps/documentation/android-sdk/overview)  
